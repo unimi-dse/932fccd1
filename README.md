@@ -17,13 +17,28 @@ library(FilmList)
 ```
 FILM(year)
 ```
+ <details>
+  <summary>Click to coppy example </summary>
+ FILM(1985)
+</details> 
+
 #### Function to plot duration for each genre
 ```
 PLOT(year)
 ```
+ <details>
+  <summary>Click to coppy example </summary>
+ PLOT(1990)
+</details> 
+
 #### Function to plot vote score for each genre
 ```
 QPLOT(year)
 ```
+ <details>
+  <summary>Click to coppy example </summary>
+QPLOT(1995)
+</details> 
+
 ## License
 ## language
