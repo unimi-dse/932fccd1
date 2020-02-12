@@ -40,5 +40,10 @@ QPLOT(year)
 QPLOT(1995)
 </details> 
 
-## License
-## language
+## Packages Imported
+rvest, xml2, ggplot2, roxygen2
+
+
+**Author**: Giulia Hadjiandrea
+
+**Date**: February 2020
