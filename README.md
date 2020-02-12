@@ -18,7 +18,7 @@ library(FilmList)
 FILM(year)
 ```
  <details>
-  <summary>Click to coppy example </summary>
+  <summary>Click to copy example </summary>
  FILM(1985)
 </details> 
 
@@ -27,7 +27,7 @@ FILM(year)
 PLOT(year)
 ```
  <details>
-  <summary>Click to coppy example </summary>
+  <summary>Click to copy example </summary>
  PLOT(1990)
 </details> 
 
@@ -36,7 +36,7 @@ PLOT(year)
 QPLOT(year)
 ```
  <details>
-  <summary>Click to coppy example </summary>
+  <summary>Click to copy example </summary>
 QPLOT(1995)
 </details> 
 
