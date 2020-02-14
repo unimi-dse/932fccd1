@@ -1,0 +1,13 @@
+Package: Movies
+Type: Package
+Title: List of the best 50 movies per year
+Version: 1.0
+Date: 2020-02-14
+Author: Giulia Hadjiandrea
+Maintainer: Giulia Hadjiandrea <giuliah.andrea@gmail.com>
+Description: The package gives a list of movies for each year selected with title, duration of the movie, number of votes, votes score, genre and director name.
+License: GPL-3
+Encoding: UTF-8
+Imports: rvest, xml2, ggplot2, moments, roxygen2, devtools
+RoxygenNote: 7.0.2
+
