@@ -28,6 +28,7 @@ rvest, xml2, ggplot2, moments, roxygen2, devtools
 
 ## License
 ``GPL-3``
+
 **Author**: Giulia Hadjiandrea
 
 **Date**: February 2020
