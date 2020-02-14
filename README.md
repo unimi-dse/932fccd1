@@ -22,26 +22,9 @@ FILM(year)
  FILM(1985)
 </details> 
 
-#### Function to plot duration for each genre
-```
-PLOT(year)
-```
- <details>
-  <summary>Click to copy example </summary>
- PLOT(1990)
-</details> 
-
-#### Function to plot vote score for each genre
-```
-QPLOT(year)
-```
- <details>
-  <summary>Click to copy example </summary>
-QPLOT(1995)
-</details> 
 
 ## Packages Imported
-rvest, xml2, ggplot2, roxygen2
+rvest, xml2, ggplot2, moments, roxygen2, devtools
 
 
 **Author**: Giulia Hadjiandrea
